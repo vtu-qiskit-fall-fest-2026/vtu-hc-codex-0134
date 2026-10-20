@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Codex** · Team ID `VTU-QFF-HC-0134` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Codex)
+[⬆ Back to Top](#codex)
 
 </div>
